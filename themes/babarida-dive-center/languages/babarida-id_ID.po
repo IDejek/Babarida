@@ -1,0 +1,671 @@
+# Babarida Dive Center - Indonesian Translation
+msgid ""
+msgstr ""
+"Project-Id-Version: Babarida Dive Center 1.0.0\n"
+"Language-Team: Indonesian <id@li.org>\n"
+
+msgid "Bunaken"
+msgstr "Bunaken"
+
+msgid "Siladen"
+msgstr "Siladen"
+
+msgid "Bangka"
+msgstr "Bangka"
+
+msgid "Lembeh"
+msgstr "Lembeh"
+
+msgid "The quality of your diving adventure depends on who guides you!"
+msgstr "Kualitas petualangan selam Anda tergantung pada siapa yang memandu Anda!"
+
+msgid "Welcome to Babarida Dive Center"
+msgstr "Selamat Datang di Babarida Dive Center"
+
+msgid "Book Your Dive Adventure"
+msgstr "Pesan Petualangan Selam Anda"
+
+msgid "Send Booking Inquiry"
+msgstr "Kirim Permintaan Pemesanan"
+
+msgid "Check-In"
+msgstr "Check-In"
+
+msgid "Our Destinations"
+msgstr "Destinasi Kami"
+
+msgid "Our Liveaboards"
+msgstr "Liveaboard Kami"
+
+msgid "Recommended Hotels in Manado"
+msgstr "Hotel Rekomendasi di Manado"
+
+msgid "Monthly Price List"
+msgstr "Daftar Harga Bulanan"
+
+msgid "What Our Divers Say"
+msgstr "Apa Kata Para Penyelam Kami"
+
+msgid "Four Worlds of Wonder"
+msgstr "Empat Dunia Keajaiban"
+
+msgid "Frequently Asked Questions"
+msgstr "Pertanyaan yang Sering Diajukan"
+
+msgid "Stay Updated"
+msgstr "Tetap Terupdate"
+
+msgid "Premium diving experiences in North Sulawesi, Indonesia. Exploring the world's most biodiverse marine environments since 2009."
+msgstr "Pengalaman selam premium di Sulawesi Utara, Indonesia. Menjelajahi lingkungan laut paling beragam kehidupan di dunia sejak 2009."
+
+msgid "Open daily: 07:00 - 21:00 WITA"
+msgstr "Buka setiap hari: 07:00 - 21:00 WITA"
+
+msgid "Bunaken National Marine Park Area, Manado, North Sulawesi, Indonesia"
+msgstr "Kawasan Taman Nasional Laut Bunaken, Manado, Sulawesi Utara, Indonesia"
+
+msgid "All rights reserved."
+msgstr "Hak cipta dilindungi."
+
+msgid "Privacy Policy"
+msgstr "Kebijakan Privasi"
+
+msgid "Terms of Service"
+msgstr "Syarat Layanan"
+
+msgid "Cookie Policy"
+msgstr "Kebijakan Cookie"
+
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+msgid "Company"
+msgstr "Perusahaan"
+
+msgid "Services"
+msgstr "Layanan"
+
+msgid "Destinations"
+msgstr "Destinasi"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Careers"
+msgstr "Karir"
+
+msgid "Low Season"
+msgstr "Musim Sepi"
+
+msgid "High Season"
+msgstr "Musim Ramai"
+
+msgid "Peak Season"
+msgstr "Musim Puncak"
+
+msgid "Day Trips"
+msgstr "Trip Harian"
+
+msgid "SSI Courses"
+msgstr "Kursus SSI"
+
+msgid "Book"
+msgstr "Pesan"
+
+msgid "Go Home"
+msgstr "Ke Beranda"
+
+msgid "View Blog"
+msgstr "Lihat Blog"
+
+msgid "Page Not Found"
+msgstr "Halaman Tidak Ditemukan"
+
+msgid "The page you're looking for doesn't exist or has been moved."
+msgstr "Halaman yang Anda cari tidak ada atau telah dipindahkan."
+
+msgid "Subscribe"
+msgstr "Berlangganan"
+
+msgid "Enter your email address"
+msgstr "Masukkan alamat email Anda"
+
+msgid "Welcome aboard! You're now subscribed."
+msgstr "Selamat bergabung! Anda telah berlangganan."
+
+msgid "Invalid email address."
+msgstr "Alamat email tidak valid."
+
+msgid "Please fill in all required fields."
+msgstr "Silakan isi semua kolom yang wajib."
+
+msgid "Please enter a valid email."
+msgstr "Silakan masukkan email yang valid."
+
+msgid "Check-in successful! Welcome aboard."
+msgstr "Check-in berhasil! Selamat datang."
+
+msgid "Booking not found. Please check your reference and email."
+msgstr "Pemesanan tidak ditemukan. Silakan periksa referensi dan email Anda."
+
+msgid "Booking inquiry sent successfully! We'll contact you within 24 hours."
+msgstr "Permintaan pemesanan berhasil dikirim! Kami akan menghubungi Anda dalam 24 jam."
+
+msgid "No posts found."
+msgstr "Tidak ada postingan ditemukan."
+
+msgid "Search destinations, trips, courses..."
+msgstr "Cari destinasi, trip, kursus..."
+
+msgid "Latest Stories"
+msgstr "Cerita Terbaru"
+
+msgid "Previous"
+msgstr "Sebelumnya"
+
+msgid "Next"
+msgstr "Selanjutnya"
+
+msgid "Read More"
+msgstr "Baca Selengkapnya"
+
+msgid "Leave a Comment"
+msgstr "Tinggalkan Komentar"
+
+msgid "Comment *"
+msgstr "Komentar *"
+
+msgid "Post Comment"
+msgstr "Kirim Komentar"
+
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda menunggu moderasi."
+
+msgid "Required fields are marked *"
+msgstr "Kolom wajib ditandai *"
+
+msgid "Name *"
+msgstr "Nama *"
+
+msgid "Email *"
+msgstr "Email *"
+
+msgid "Website"
+msgstr "Situs Web"
+
+msgid "View"
+msgstr "Lihat"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "No results found. Try different keywords."
+msgstr "Lihat"
+
+msgid "Blog Sidebar"
+msgstr "Sidebar Blog"
+
+msgid "Contact Info"
+msgstr "Info Kontak"
+
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+msgid "Recent Trips"
+msgstr "Trip Terbaru"
+
+msgid "Number of trips:"
+msgstr "Jumlah trip:"
+
+msgid "Title:"
+msgstr "Judul:"
+
+msgid "General Manager"
+msgstr "Manajer Umum"
+
+msgid "Booking Staff"
+msgstr "Staf Reservasi"
+
+msgid "Dive Guide"
+msgstr "Pemandu Selam"
+
+msgid "Hotel Partner"
+msgstr "Partner Hotel"
+
+msgid "Liveaboard Partner"
+msgstr "Partner Liveaboard"
+
+msgid "Content Editor"
+msgstr "Penyunting Konten"
+
+msgid "Finance Staff"
+msgstr "Staf Keuangan"
+
+msgid "Pending"
+msgstr "Menunggu"
+
+msgid "Confirmed"
+msgstr "Dikonfirmasi"
+
+msgid "Paid"
+msgstr "Dibayar"
+
+msgid "Checked In"
+msgstr "Sudah Check-In"
+
+msgid "Completed"
+msgstr "Selesai"
+
+msgid "Cancelled"
+msgstr "Dibatalkan"
+
+msgid "Bank Transfer"
+msgstr "Transfer Bank"
+
+msgid "Guest"
+msgstr "Tamu"
+
+msgid "Guests"
+msgstr "Tamu"
+
+msgid "21+ Guests"
+msgstr "21+ Tamu"
+
+msgid "First Name *"
+msgstr "Nama Depan *"
+
+msgid "Last Name *"
+msgstr "Nama Belakang *"
+
+msgid "WhatsApp / Phone *"
+msgstr "WhatsApp / Telepon *"
+
+msgid "Select a destination"
+msgstr "Pilih destinasi"
+
+msgid "Preferred Date *"
+msgstr "Tanggal Pilihan *"
+
+msgid "Number of Guests"
+msgstr "Jumlah Tamu"
+
+msgid "Select activity"
+msgstr "Pilih aktivitas"
+
+msgid "Special Requests"
+msgstr "Permintaan Khusus"
+
+msgid "Certification level"
+msgstr "Level sertifikasi"
+
+msgid "Price range"
+msgstr "Rentang harga"
+
+msgid "Open Water Diver"
+msgstr "Open Water Diver"
+
+msgid "All Packages"
+msgstr "Semua Paket"
+
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+msgid "No results found. Try different keywords."
+msgstr "Tidak ada hasil. Coba kata kunci berbeda."
+
+msgid "Babarida Dive Center – Premium Diving in North Sulawesi"
+msgstr "Babarida Dive Center – Selam Premium di Sulawesi Utara"
+
+msgid "Liveaboard Cruises"
+msgstr "Kapal Pesiar"
+
+msgid "Dive Safaris"
+msgstr "Safari Selam"
+
+msgid "Water Sports"
+msgstr "Olahraga Air"
+
+msgid "Day Trips"
+msgstr "Trip Harian"
+
+msgid "SSI Courses"
+msgstr "Kursus SSI"
+
+msgid "Fam Island Divecamp"
+msgstr "Divecamp Pulau Fam"
+
+msgid "Info Bunaken"
+msgstr "Info Bunaken"
+
+msgid "Siladen Info"
+msgstr "Info Siladen"
+
+msgid "Bangka Info"
+msgstr "Info Bangka"
+
+msgid "Lembeh Info"
+msgstr "Info Lembeh"
+
+msgid "Boat Listings"
+msgstr "Daftar Kapal"
+
+msgid "Expeditions"
+msgstr "Ekspedisi"
+
+msgid "Charter"
+msgstr "Sewa Khusus"
+
+msgid "Boat Types"
+msgstr "Jenis Kapal"
+
+msgid "Activity Types"
+msgstr "Jenis Aktivitas"
+
+msgid "Seasons"
+msgstr "Musim"
+
+msgid "Certification Levels"
+msgstr "Level Sertifikasi"
+
+msgid "Babarida Dashboard"
+msgstr "Dashboard Babarida"
+
+msgid "Babarida DC"
+msgstr "Babarida DC"
+
+msgid "Bookings"
+msgstr "Pemesanan"
+
+msgid "Reports"
+msgstr "Laporan"
+
+msgid "Pricing"
+msgstr "Harga"
+
+msgid "Customers"
+msgstr "Pelanggan"
+
+msgid "Schedule"
+msgstr "Jadwal"
+
+msgid "Coupons"
+msgstr "Kupon"
+
+msgid "Export"
+msgstr "Ekspor"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Weather"
+msgstr "Cuaca"
+
+msgid "Chat"
+msgstr "Obrolan"
+
+msgid "Activity Log"
+msgstr "Log Aktivitas"
+
+msgid "Security"
+msgstr "Keamanan"
+
+msgid "Backup"
+msgstr "Pencadangan"
+
+msgid "System Health"
+msgstr "Kesehatan Sistem"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Trip Archives"
+msgstr "Arsip Trip"
+
+msgid "Hotel Partners"
+msgstr "Partner Hotel"
+
+msgid "Water Sports"
+msgstr "Olahraga Air"
+
+msgid "Dive Courses"
+msgstr "Kursus Selam"
+
+msgid "Add Destination"
+msgstr "Tambah Destinasi"
+
+msgid "All Destinations"
+msgstr "Semua Destinasi"
+
+msgid "Add Activity Type"
+msgstr "Tambah Jenis Aktivitas"
+
+msgid "All Activity Types"
+msgstr "Semua Jenis Aktivitas"
+
+msgid "Add Boat Type"
+msgstr "Tambah Jenis Kapal"
+
+msgid "All Boat Types"
+msgstr "Semua Jenis Kapal"
+
+msgid "Add Level"
+msgstr "Tambah Level"
+
+msgid "All Levels"
+msgstr "Semua Level"
+
+msgid "Add Trip"
+msgstr "Tambah Trip"
+
+msgid "Add New Trip"
+msgstr "Tambah Trip Baru"
+
+msgid "Add Liveaboard"
+msgstr "Tambah Liveaboard"
+
+msgid "Add New Liveaboard"
+msgstr "Tambah Liveaboard Baru"
+
+msgid "Add Hotel"
+msgstr "Tambah Hotel"
+
+msgid "Add New Hotel"
+msgstr "Tambah Hotel Baru"
+
+msgid "All Hotels"
+msgstr "Semua Hotel"
+
+msgid "Add Testimonial"
+msgstr "Tambah Testimoni"
+
+msgid "Add New Testimonial"
+msgstr "Tambah Testimoni Baru"
+
+msgid "All Testimonials"
+msgstr "Semua Testimoni"
+
+msgid "Add Partner"
+msgstr "Tambah Partner"
+
+msgid "All Partners"
+msgstr "Semua Partner"
+
+msgid "Add FAQ"
+msgstr "Tambah FAQ"
+
+msgid "All FAQs"
+msgstr "Semua FAQ"
+
+msgid "Add Activity"
+msgstr "Tambah Aktivitas"
+
+msgid "All Activities"
+msgstr "Semua Aktivitas"
+
+msgid "Add Course"
+msgstr "Tambah Kursus"
+
+msgid "All Courses"
+msgstr "Semua Kursus"
+
+msgid "Add Booking"
+msgstr "Tambah Pemesanan"
+
+msgid "Add New Booking"
+msgstr "Tambah Pemesanan Baru"
+
+msgid "All Bookings"
+msgstr "Semua Pemesanan"
+
+msgid "Search Bookings"
+msgstr "Cari Pemesanan"
+
+msgid "Edit Trip"
+msgstr "Edit Trip"
+
+msgid "View Trip"
+msgstr "Lihat Trip"
+
+msgid "Edit Liveaboard"
+msgstr "Edit Liveaboard"
+
+msgid "View Liveaboard"
+msgstr "Lihat Liveaboard"
+
+msgid "Edit Hotel"
+msgstr "Edit Hotel"
+
+msgid "Edit Testimonial"
+msgstr "Edit Testimoni"
+
+msgid "Edit FAQ"
+msgstr "Edit FAQ"
+
+msgid "Loading"
+msgstr "Memuat"
+
+msgid "World clocks"
+msgstr "Jam Dunia"
+
+msgid "Main navigation"
+msgstr "Navigasi utama"
+
+msgid "Mobile navigation"
+msgstr "Navigasi mobile"
+
+msgid "Quick actions"
+msgstr "Aksi cepat"
+
+msgid "Back to top"
+msgstr "Kembali ke atas"
+
+msgid "Book now"
+msgstr "Pesan sekarang"
+
+msgid "Email Us"
+msgstr "Email Kami"
+
+msgid "Chat on WhatsApp"
+msgstr "Chat via WhatsApp"
+
+msgid "Send email"
+msgstr "Kirim email"
+
+msgid "Open chat assistant"
+msgstr "Buka asisten chat"
+
+msgid "Chat assistant"
+msgstr "Asisten chat"
+
+msgid "Weather information"
+msgstr "Informasi cuaca"
+
+msgid "Close weather"
+msgstr "Tutup cuaca"
+
+msgid "Change currency"
+msgstr "Ubah mata uang"
+
+msgid "Booking form"
+msgstr "Formulir pemesanan"
+
+msgid "Close booking form"
+msgstr "Tutup formulir pemesanan"
+
+msgid "Language switcher"
+msgstr "Pengubah bahasa"
+
+msgid "North Sulawesi, Indonesia"
+msgstr "Sulawesi Utara, Indonesia"
+
+msgid "Manado Weather"
+msgstr "Cuaca Manado"
+
+msgid "Partly Cloudy"
+msgstr "Cerah Berawan"
+
+msgid "Babarida AI Assistant"
+msgstr "Asisten AI Babarida"
+
+msgid "Online now"
+msgstr "Online sekarang"
+
+msgid "Type your question..."
+msgstr "Ketik pertanyaan Anda..."
+
+msgid "Send message"
+msgstr "Kirim pesan"
+
+msgid "Bunaken Diving"
+msgstr "Selam di Bunaken"
+
+msgid "Pricing"
+msgstr "Harga"
+
+msgid "WhatsApp Us"
+msgstr "WhatsApp Kami"
+
+msgid "View All"
+msgstr "Lihat Semua"
+
+msgid "Page Not Found"
+msgstr "Halaman Tidak Ditemukan"
+
+msgid "The page you're looking for doesn't exist or has been moved."
+msgstr "Halaman yang Anda cari tidak ada atau telah dipindahkan."
+
+msgid "Go Home"
+msgstr "Ke Beranda"
+
+msgid "View Blog"
+msgstr "Lihat Blog"
+
+msgid "Subscribe"
+msgstr "Berlangganan"
+
+msgid "Welcome aboard! You're now subscribed to our newsletter."
+msgstr "Selamat bergabung! Anda telah berlangganan newsletter kami."
+
+msgid "You're already subscribed!"
+msgstr "Anda sudah berlangganan!"
+
+msgid "Check-in successful! Welcome aboard."
+msgstr "Check-in berhasil! Selamat datang."
+
+msgid "Booking not found. Please check your reference and email."
+msgstr "Pemesanan tidak ditemukan. Silakan periksa referensi dan email Anda."
+
+msgid "Booking inquiry sent successfully! We'll contact you within 24 hours."
+msgstr "Permintaan pemesanan berhasil dikirim! Kami akan menghubungi Anda dalam 24 jam."
+
+msgid "We'll confirm availability and send you a detailed quote within 24 hours via email and WhatsApp."
+msgstr "Kami akan mengkonfirmasi ketersediaan dan mengirim penawaran detail dalam 24 jam melalui email dan WhatsApp."
+
+msgid "No spam. Unsubscribe anytime. We respect your privacy."
+msgstr "Tanpa spam. Berhenti berlangganan kapan saja. Kami menghargai privasi Anda."
