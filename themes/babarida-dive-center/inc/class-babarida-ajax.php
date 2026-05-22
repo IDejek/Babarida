@@ -214,4 +214,70 @@ class Babarida_Ajax {
         }
 
         $reply = Babarida_Chat::generate_reply($message);
-        wp_send_json_success(array('reply' => $
+        wp_send_json_success(array('reply' => $reply));
+    }
+
+    /**
+     * Newsletter Subscribe
+     */
+    public function subscribe_newsletter() {
+        $email = sanitize_email($_POST['email'] ?? '');
+        if (!is_email($email)) {
+            wp_send_json_error(array('message' => __('Invalid email address.', 'babarida')));
+        }
+
+        $subscribers = get_option('babarida_newsletter_subscribers', array());
+        if (!in_array($email, $subscribers, true)) {
+            $subscribers[] = $email;
+            update_option('babarida_newsletter_subscribers', $subscribers);
+        }
+
+        wp_send_json_success(array('message' => __('Welcome aboard! You\'re now subscribed.', 'babarida')));
+    }
+
+    /**
+     * Check-in Submit
+     */
+    public function checkin_submit() {
+        if (!wp_verify_nonce($_POST['nonce'] ?? '', 'babarida_nonce')) {
+            wp_send_json_error('Security failed.');
+        }
+
+        $reference = sanitize_text_field($_POST['reference'] ?? '');
+        $email     = sanitize_email($_POST['email'] ?? '');
+
+        if (empty($reference) || empty($email)) {
+            wp_send_json_error(array('message' => __('Please fill in all fields.', 'babarida')));
+        }
+
+        $bookings = get_posts(array(
+            'post_type'  => 'booking',
+            'meta_query' => array(
+                'relation' => 'AND',
+                array('key' => '_booking_reference', 'value' => $reference),
+                array('key' => '_booking_email', 'value' => $email),
+            ),
+            'numberposts' => 1,
+        ));
+
+        if (empty($bookings)) {
+            wp_send_json_error(array('message' => __('Booking not found. Please check your reference and email.', 'babarida')));
+        }
+
+        update_post_meta($bookings[0]->ID, '_booking_status', 'checked-in');
+
+        wp_send_json_success(array(
+            'message' => __('Check-in successful! Welcome aboard.', 'babarida'),
+            'status'  => 'checked-in',
+        ));
+    }
+}
+
+new Babarida_Ajax();
+
+/**
+ * Generate booking reference
+ */
+function babarida_generate_booking_ref() {
+    return 'BDC-' . strtoupper(substr(md5(uniqid(mt_rand(), true)), 0, 8));
+}
