@@ -1,0 +1,21 @@
+{
+    "name": "Babarida Dive Center",
+    "short_name": "Babarida DC",
+    "description": "Premium diving, snorkeling, liveaboard, and water sports in North Sulawesi, Indonesia.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#001A33",
+    "theme_color": "#0077E6",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/wp-content/themes/babarida-dive-center/assets/img/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["travel", "sports"],
+    "lang": "en",
+    "dir": "ltr"
+}
