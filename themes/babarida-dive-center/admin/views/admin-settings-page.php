@@ -178,4 +178,90 @@ if (isset($_POST['babarida_save_settings']) && wp_verify_nonce($_POST['_wpnonce'
             <div class="babarida-form-row">
                 <div class="babarida-form-group">
                     <label>Publishable Key</label>
-                    <input type="text" name="stripe_publishable_key" value="<?php echo esc_attr(get_option('babarida_stripe_publishable_key', '')); ?>"
+                    <input type="text" name="stripe_publishable_key" value="<?php echo esc_attr(get_option('babarida_stripe_publishable_key', ''));  ?>" class="babarida-input">
+                </div>
+                <div class="babarida-form-group">
+                    <label>Secret Key</label>
+                    <input type="password" name="stripe_secret_key" value="<?php echo esc_attr(get_option('babarida_stripe_secret_key', '')); ?>" class="babarida-input">
+                </div>
+            </div>
+
+            <h4 style="margin:24px 0 12px;">PayPal</h4>
+            <div class="babarida-form-row">
+                <div class="babarida-form-group">
+                    <label>Enabled</label>
+                    <select name="paypal_enabled" class="babarida-input">
+                        <option value="no" <?php selected(get_option('babarida_paypal_enabled', 'no'), 'no'); ?>>No</option>
+                        <option value="yes" <?php selected(get_option('babarida_paypal_enabled', 'no'), 'yes'); ?>>Yes</option>
+                    </select>
+                </div>
+                <div class="babarida-form-group">
+                    <label>Mode</label>
+                    <select name="paypal_mode" class="babarida-input">
+                        <option value="sandbox" <?php selected(get_option('babarida_paypal_mode', 'sandbox'), 'sandbox'); ?>>Sandbox</option>
+                        <option value="production" <?php selected(get_option('babarida_paypal_mode', 'sandbox'), 'production'); ?>>Production</option>
+                    </select>
+                </div>
+            </div>
+            <div class="babarida-form-row">
+                <div class="babarida-form-group">
+                    <label>Client ID</label>
+                    <input type="text" name="paypal_client_id" value="<?php echo esc_attr(get_option('babarida_paypal_client_id', '')); ?>" class="babarida-input">
+                </div>
+                <div class="babarida-form-group">
+                    <label>Secret</label>
+                    <input type="password" name="paypal_secret" value="<?php echo esc_attr(get_option('babarida_paypal_secret', '')); ?>" class="babarida-input">
+                </div>
+            </div>
+
+            <h4 style="margin:24px 0 12px;">Bank Transfer</h4>
+            <?php $bank = get_option('babarida_bank_details', array()); ?>
+            <div class="babarida-form-row">
+                <div class="babarida-form-group">
+                    <label>Bank Name</label>
+                    <input type="text" name="bank_name" value="<?php echo esc_attr($bank['bank_name'] ?? ''); ?>" class="babarida-input">
+                </div>
+                <div class="babarida-form-group">
+                    <label>Branch</label>
+                    <input type="text" name="bank_branch" value="<?php echo esc_attr($bank['branch'] ?? ''); ?>" class="babarida-input">
+                </div>
+            </div>
+            <div class="babarida-form-row">
+                <div class="babarida-form-group">
+                    <label>Account Name</label>
+                    <input type="text" name="bank_account_name" value="<?php echo esc_attr($bank['account_name'] ?? ''); ?>" class="babarida-input">
+                </div>
+                <div class="babarida-form-group">
+                    <label>Account Number</label>
+                    <input type="text" name="bank_account_no" value="<?php echo esc_attr($bank['account_no'] ?? ''); ?>" class="babarida-input">
+                </div>
+            </div>
+        </div>
+
+        <!-- WhatsApp API -->
+        <div class="babarida-panel" style="margin-bottom:24px;">
+            <h3 style="margin-bottom:20px;">WhatsApp API</h3>
+            <div class="babarida-form-group">
+                <label>Enabled</label>
+                <select name="wa_api_enabled" class="babarida-input">
+                    <option value="no" <?php selected(get_option('babarida_wa_api_enabled', 'no'), 'no'); ?>>No</option>
+                    <option value="yes" <?php selected(get_option('babarida_wa_api_enabled', 'no'), 'yes'); ?>>Yes</option>
+                </select>
+            </div>
+            <div class="babarida-form-group">
+                <label>API URL</label>
+                <input type="url" name="wa_api_url" value="<?php echo esc_attr(get_option('babarida_wa_api_url', '')); ?>" class="babarida-input" placeholder="https://api.example.com/v1/messages">
+            </div>
+            <div class="babarida-form-group">
+                <label>API Key</label>
+                <input type="password" name="wa_api_key" value="<?php echo esc_attr(get_option('babarida_wa_api_key', '')); ?>" class="babarida-input">
+            </div>
+        </div>
+
+        <div style="text-align:right;">
+            <button type="submit" name="babarida_save_settings" value="1" class="button button-primary" style="padding:10px 32px;font-size:14px;">
+                <i class="fa-solid fa-floppy-disk" style="margin-right:6px;"></i> Save All Settings
+            </button>
+        </div>
+    </form>
+</div>
