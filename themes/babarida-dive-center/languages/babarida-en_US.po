@@ -1,0 +1,710 @@
+# Babarida Dive Center - English Translation
+# Copyright (C) 2025 Babarida Dive Center
+# This file is distributed under the same license as the Babarida Dive Center package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Babarida Dive Center 1.0.0\n"
+"Report-Msgid-Bugs-To: tombinawaiqbal@gmail.com\n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Last-Translator: Iqbal Tombinawa <tombinawaiqbal@gmail.com>\n"
+"Language-Team: English <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Bunaken"
+msgstr "Bunaken"
+
+msgid "Siladen"
+msgstr "Siladen"
+
+msgid "Bangka"
+msgstr "Bangka"
+
+msgid "Lembeh"
+msgstr "Lembeh"
+
+msgid "Liveaboards"
+msgstr "Liveaboards"
+
+msgid "Dive & Stay"
+msgstr "Dive & Stay"
+
+msgid "Snorkeling"
+msgstr "Snorkeling"
+
+msgid "Dive Safari"
+msgstr "Dive Safari"
+
+msgid "Water Sports"
+msgstr "Water Sports"
+
+msgid "Day Trip"
+msgstr "Day Trip"
+
+msgid "Dive Center & Courses"
+msgstr "Dive Center & Courses"
+
+msgid "The quality of your diving adventure depends on who guides you!"
+msgstr "The quality of your diving adventure depends on who guides you!"
+
+msgid "Welcome to Babarida Dive Center"
+msgstr "Welcome to Babarida Dive Center"
+
+msgid "Book Your Dive Adventure"
+msgstr "Book Your Dive Adventure"
+
+msgid "Send Booking Inquiry"
+msgstr "Send Booking Inquiry"
+
+msgid "Check-In"
+msgstr "Check-In"
+
+msgid "Our Destinations"
+msgstr "Our Destinations"
+
+msgid "Our Liveaboards"
+msgstr "Our Liveaboards"
+
+msgid "Recommended Hotels in Manado"
+msgstr "Recommended Hotels in Manado"
+
+msgid "Monthly Price List"
+msgstr "Monthly Price List"
+
+msgid "What Our Divers Say"
+msgstr "What Our Divers Say"
+
+msgid "Our Partners"
+msgstr "Our Partners"
+
+msgid "Frequently Asked Questions"
+msgstr "Frequently Asked Questions"
+
+msgid "Stay Updated"
+msgstr "Stay Updated"
+
+msgid "Four Worlds of Wonder"
+msgstr "Four Worlds of Wonder"
+
+msgid "At Sea"
+msgstr "At Sea"
+
+msgid "Transparent Pricing"
+msgstr "Transparent Pricing"
+
+msgid "Dive Sites of North Sulawesi"
+msgstr "Dive Sites of North Sulawesi"
+
+msgid "Our Waters"
+msgstr "Our Waters"
+
+msgid "Help Center"
+msgstr "Help Center"
+
+msgid "Trusted By"
+msgstr "Trusted By"
+
+msgid "About Us"
+msgstr "About Us"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Careers"
+msgstr "Careers"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Terms of Service"
+msgstr "Terms of Service"
+
+msgid "Cookie Policy"
+msgstr "Cookie Policy"
+
+msgid "Contact Us"
+msgstr "Contact Us"
+
+msgid "Company"
+msgstr "Company"
+
+msgid "Services"
+msgstr "Services"
+
+msgid "Destinations"
+msgstr "Destinations"
+
+msgid "Contact Info"
+msgstr "Contact Info"
+
+msgid "Skip to main content"
+msgstr "Skip to main content"
+
+msgid "Loading"
+msgstr "Loading"
+
+msgid "World clocks"
+msgstr "World clocks"
+
+msgid "Main navigation"
+msgstr "Main navigation"
+
+msgid "Mobile navigation"
+msgstr "Mobile navigation"
+
+msgid "Quick actions"
+msgstr "Quick actions"
+
+msgid "Back to top"
+msgstr "Back to top"
+
+msgid "Book now"
+msgstr "Book now"
+
+msgid "Email Us"
+msgstr "Email Us"
+
+msgid "Chat on WhatsApp"
+msgstr "Chat on WhatsApp"
+
+msgid "Send email"
+msgstr "Send email"
+
+msgid "Open chat assistant"
+msgstr "Open chat assistant"
+
+msgid "Chat assistant"
+msgstr "Chat assistant"
+
+msgid "Weather information"
+msgstr "Weather information"
+
+msgid "Close weather"
+msgstr "Close weather"
+
+msgid "Change currency"
+msgstr "Change currency"
+
+msgid "Booking form"
+msgstr "Booking form"
+
+msgid "Close booking form"
+msgstr "Close booking form"
+
+msgid "First Name *"
+msgstr "First Name *"
+
+msgid "Last Name *"
+msgstr "Last Name *"
+
+msgid "Email *"
+msgstr "Email *"
+
+msgid "WhatsApp / Phone *"
+msgstr "WhatsApp / Phone *"
+
+msgid "Select a destination"
+msgstr "Select a destination"
+
+msgid "Preferred Date *"
+msgstr "Preferred Date *"
+
+msgid "Number of Guests"
+msgstr "Number of Guests"
+
+msgid "Select activity"
+msgstr "Select activity"
+
+msgid "Special Requests"
+msgstr "Special Requests"
+
+msgid "Guest"
+msgstr "Guest"
+
+msgid "Guests"
+msgstr "Guests"
+
+msgid "21+ Guests"
+msgstr "21+ Guests"
+
+msgid "Please fill in all required fields."
+msgstr "Please fill in all required fields."
+
+msgid "Please enter a valid email."
+msgstr "Please enter a valid email."
+
+msgid "Open Water Diver"
+msgstr "Open Water Diver"
+
+msgid "Low Season"
+msgstr "Low Season"
+
+msgid "High Season"
+msgstr "High Season"
+
+msgid "Peak Season"
+msgstr "Peak Season"
+
+msgid "All Packages"
+msgstr "All Packages"
+
+msgid "Day Trips"
+msgstr "Day Trips"
+
+msgid "SSI Courses"
+msgstr "SSI Courses"
+
+msgid "Book"
+msgstr "Book"
+
+msgid "Premium diving experiences in North Sulawesi, Indonesia. Exploring the world's most biodiverse marine environments since 2009."
+msgstr "Premium diving experiences in North Sulawesi, Indonesia. Exploring the world's most biodiverse marine environments since 2009."
+
+msgid "Open daily: 07:00 - 21:00 WITA"
+msgstr "Open daily: 07:00 - 21:00 WITA"
+
+msgid "Bunaken National Marine Park Area, Manado, North Sulawesi, Indonesia"
+msgstr "Bunaken National Marine Park Area, Manado, North Sulawesi, Indonesia"
+
+msgid "All rights reserved."
+msgstr "All rights reserved."
+
+msgid "Language switcher"
+msgstr "Language switcher"
+
+msgid "North Sulawesi, Indonesia"
+msgstr "North Sulawesi, Indonesia"
+
+msgid "Manado Weather"
+msgstr "Manado Weather"
+
+msgid "Partly Cloudy"
+msgstr "Partly Cloudy"
+
+msgid "Babarida AI Assistant"
+msgstr "Babarida AI Assistant"
+
+msgid "Online now"
+msgstr "Online now"
+
+msgid "Type your question..."
+msgstr "Type your question..."
+
+msgid "Send message"
+msgstr "Send message"
+
+msgid "Bunaken Diving"
+msgstr "Bunaken Diving"
+
+msgid "Pricing"
+msgstr "Pricing"
+
+msgid "Book Now"
+msgstr "Book Now"
+
+msgid "WhatsApp Us"
+msgstr "WhatsApp Us"
+
+msgid "View All"
+msgstr "View All"
+
+msgid "Read More"
+msgstr "Read More"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "No posts found."
+msgstr "No posts found."
+
+msgid "Page Not Found"
+msgstr "Page Not Found"
+
+msgid "The page you're looking for doesn't exist or has been moved."
+msgstr "The page you're looking for doesn't exist or has been moved."
+
+msgid "Go Home"
+msgstr "Go Home"
+
+msgid "View Blog"
+msgstr "View Blog"
+
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+msgid "No results found. Try different keywords."
+msgstr "No results found. Try different keywords."
+
+msgid "View"
+msgstr "View"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Search destinations, trips, courses..."
+msgstr "Search destinations, trips, courses..."
+
+msgid "Latest Stories"
+msgstr "Latest Stories"
+
+msgid "Comment"
+msgstr "Comment"
+
+msgid "Post Comment"
+msgstr "Post Comment"
+
+msgid "Name *"
+msgstr "Name *"
+
+msgid "Email *"
+msgstr "Email *"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Comment *"
+msgstr "Comment *"
+
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+msgid "Older Comments"
+msgstr "Older Comments"
+
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+msgid "Leave a Comment"
+msgstr "Leave a Comment"
+
+msgid "Required fields are marked *"
+msgstr "Required fields are marked *"
+
+msgid "Recent Trips"
+msgstr "Recent Trips"
+
+msgid "Number of trips:"
+msgstr "Number of trips:"
+
+msgid "Title:"
+msgstr "Title:"
+
+msgid "Contact Info"
+msgstr "Contact Info"
+
+msgid "Contact Us"
+msgstr "Contact Us"
+
+msgid "Subscribe"
+msgstr "Subscribe"
+
+msgid "Enter your email address"
+msgstr "Enter your email address"
+
+msgid "Welcome aboard! You're now subscribed."
+msgstr "Welcome aboard! You're now subscribed."
+
+msgid "Invalid email address."
+msgstr "Invalid email address."
+
+msgid "Welcome aboard! You're now subscribed to our newsletter."
+msgstr "Welcome aboard! You're now subscribed to our newsletter."
+
+msgid "Please fill in all fields."
+msgstr "Please fill in all fields."
+
+msgid "Booking not found. Please check your reference and email."
+msgstr "Booking not found. Please check your reference and email."
+
+msgid "Check-in successful! Welcome aboard."
+msgstr "Check-in successful! Welcome aboard."
+
+msgid "Booking inquiry sent successfully! We'll contact you within 24 hours."
+msgstr "Booking inquiry sent successfully! We'll contact you within 24 hours."
+
+msgid "You're already subscribed!"
+msgstr "You're already subscribed!"
+
+msgid "Babarida Dive Center – Premium Diving in North Sulawesi"
+msgstr "Babarida Dive Center – Premium Diving in North Sulawesi"
+
+msgid "Premium diving, snorkeling, liveaboard, and water sports in Bunaken, Siladen, Bangka, and Lembeh, North Sulawesi, Indonesia."
+msgstr "Premium diving, snorkeling, liveaboard, and water sports in Bunaken, Siladen, Bangka, and Lembeh, North Sulawesi, Indonesia."
+
+msgid "Liveaboard Cruises"
+msgstr "Liveaboard Cruises"
+
+msgid "Dive Safaris"
+msgstr "Dive Safaris"
+
+msgid "Water Sports"
+msgstr "Water Sports"
+
+msgid "Day Trips"
+msgstr "Day Trips"
+
+msgid "SSI Courses"
+msgstr "SSI Courses"
+
+msgid "Fam Island Divecamp"
+msgstr "Fam Island Divecamp"
+
+msgid "Info Bunaken"
+msgstr "Info Bunaken"
+
+msgid "Siladen Info"
+msgstr "Siladen Info"
+
+msgid "Bangka Info"
+msgstr "Bangka Info"
+
+msgid "Lembeh Info"
+msgstr "Lembeh Info"
+
+msgid "Boat Listings"
+msgstr "Boat Listings"
+
+msgid "Expeditions"
+msgstr "Expeditions"
+
+msgid "Charter"
+msgstr "Charter"
+
+msgid "Boat Types"
+msgstr "Boat Types"
+
+msgid "Activity Types"
+msgstr "Activity Types"
+
+msgid "Seasons"
+msgstr "Seasons"
+
+msgid "Certification Levels"
+msgstr "Certification Levels"
+
+msgid "Add Destination"
+msgstr "Add Destination"
+
+msgid "All Destinations"
+msgstr "All Destinations"
+
+msgid "Add Activity Type"
+msgstr "Add Activity Type"
+
+msgid "All Activity Types"
+msgstr "All Activity Types"
+
+msgid "Add Boat Type"
+msgstr "Add Boat Type"
+
+msgid "All Boat Types"
+msgstr "All Boat Types"
+
+msgid "Add Level"
+msgstr "Add Level"
+
+msgid "All Levels"
+msgstr "All Levels"
+
+msgid "Add Trip"
+msgstr "Add Trip"
+
+msgid "Add New Trip"
+msgstr "Add New Trip"
+
+msgid "Add Liveaboard"
+msgstr "Add Liveaboard"
+
+msgid "Add New Liveaboard"
+msgstr "Add Liveaboard"
+
+msgid "Add Hotel"
+msgstr "Add Hotel"
+
+msgid "Add New Hotel"
+msgstr "Add New Hotel"
+
+msgid "All Hotels"
+msgstr "All Hotels"
+
+msgid "Add Testimonial"
+msgstr "Add Testimonial"
+
+msgid "Add New Testimonial"
+msgstr "Add New Testimonial"
+
+msgid "All Testimonials"
+msgstr "All Testimonials"
+
+msgid "Add Partner"
+msgstr "Add Partner"
+
+msgid "All Partners"
+msgstr "All Partners"
+
+msgid "Add FAQ"
+msgstr "Add FAQ"
+
+msgid "All FAQs"
+msgstr "All FAQs"
+
+msgid "Add Activity"
+msgstr "Add Activity"
+
+msgid "All Activities"
+msgstr "All Activities"
+
+msgid "Add Course"
+msgstr "Add Course"
+
+msgid "All Courses"
+msgstr "All Courses"
+
+msgid "Add Booking"
+msgstr "Add Booking"
+
+msgid "Add New Booking"
+msgstr "Add Booking"
+
+msgid "All Bookings"
+msgstr "All Bookings"
+
+msgid "Search Bookings"
+msgstr "Search Bookings"
+
+msgid "Edit Trip"
+msgstr "Edit Trip"
+
+msgid "View Trip"
+msgstr "View Trip"
+
+msgid "Edit Liveaboard"
+msgstr "Edit Liveaboard"
+
+msgid "View Liveaboard"
+msgstr "View Liveaboard"
+
+msgid "Edit Hotel"
+msgstr "Edit Hotel"
+
+msgid "Edit Testimonial"
+msgstr "Edit Testimonial"
+
+msgid "Edit FAQ"
+msgstr "Edit FAQ"
+
+msgid "Trip Archives"
+msgstr "Trip Archives"
+
+msgid "Hotel Partners"
+msgstr "Hotel Partners"
+
+msgid "Water Sports"
+msgstr "Water Sports"
+
+msgid "Dive Courses"
+msgstr "Dive Courses"
+
+msgid "Babarida Dashboard"
+msgstr "Babarida Dashboard"
+
+msgid "Babarida DC"
+msgstr "Babarida DC"
+
+msgid "Bookings"
+msgstr "Bookings"
+
+msgid "Reports"
+msgstr "Reports"
+
+msgid "Pricing"
+msgstr "Pricing"
+
+msgid "Customers"
+msgstr "Customers"
+
+msgid "Schedule"
+msgstr "Schedule"
+
+msgid "Coupons"
+msgstr "Coupons"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Weather"
+msgstr "Weather"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Activity Log"
+msgstr "Activity Log"
+
+msgid "Security"
+msgstr "Security"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "System Health"
+msgstr "System Health"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "General Manager"
+msgstr "General Manager"
+
+msgid "Booking Staff"
+msgstr "Booking Staff"
+
+msgid "Dive Guide"
+msgstr "Dive Guide"
+
+msgid "Hotel Partner"
+msgstr "Hotel Partner"
+
+msgid "Liveaboard Partner"
+msgstr "Liveaboard Partner"
+
+msgid "Content Editor"
+msgstr "Content Editor"
+
+msgid "Finance Staff"
+msgstr "Finance Staff"
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "Confirmed"
+msgstr "Confirmed"
+
+msgid "Paid"
+msgstr "Paid"
+
+msgid "Checked In"
+msgstr "Checked In"
+
+msgid "Completed"
+msgstr "Completed"
+
+msgid "Cancelled"
+msgstr "Cancelled"
+
+msgid "Bank Transfer"
+msgstr "Bank Transfer"
